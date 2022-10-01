@@ -14,16 +14,10 @@ ffmpeg -version
 
 - Установить сам Python. https://www.python.org/downloads/
 
-- Установить нужные библиотеки, для этого в cmd от админа
+- Установить нужные библиотеки, для этого в cmd от админа в директории скрипта
 ```commandline
-pip install get-video-properties
-pip install six
-pip install ffmpeg-python
-pip install ffprobe-python
-pip install ffmpeg-progress-yield
-pip install tqdm
+pip install -r requirements.txt
 ```
-
 
 Настройка:
 
