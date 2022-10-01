@@ -1,0 +1,9 @@
+; Пути для поиска файлов к конвертированию.
+[srcList]
+srcPath0 = ../Video_01
+srcPath1 = C:\Users\User\Documents\Фильмы
+srcPath2 = C:\Users\User\Documents\Сериалы
+
+; Список обрабатываемых расширений
+[extList]
+extList = [".avi", ".mp4", ".mkv", ".mpeg", ".wmv", ".flv", ".m4v"]
