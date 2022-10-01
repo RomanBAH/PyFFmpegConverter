@@ -11,7 +11,6 @@ from videoprops import get_video_properties
 # Пути для поиска файлов к конвертированию
 srcList = [
     '../Video_01',
-    '../Video_02',
     'E:\\Мультсериалы'
 ]
 
