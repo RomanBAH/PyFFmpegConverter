@@ -12,6 +12,7 @@ from videoprops import get_video_properties
 srcList = [
     '../Video_01',
     '../Video_02',
+    'E:\\Мультсериалы'
 ]
 
 # Список обрабатываемых расширений
