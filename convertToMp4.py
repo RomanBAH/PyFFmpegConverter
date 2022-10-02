@@ -148,6 +148,8 @@ for src in srcList:
                         # тот же каталог, ставим флаг использования временной директории
                         if fextension.lower() == '.mp4' and os.path.isfile(filepathdirFinal):
                             useTmpfolder = True
+                        else:
+                            useTmpfolder = False
 
                         convert_to_mp4(inputfile, filepathdirFinal, inputprops, useTmpfolder)
 
